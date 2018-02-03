@@ -1,0 +1,14 @@
+{
+    "a list": [
+        123,
+        42,
+        "help1",
+        "done2"
+    ],
+    "a string": "bla",
+    "another dict": {
+        "foo":"bar",
+        "key":["value0","value1","value2"],
+        "the answer":42
+    }
+}
