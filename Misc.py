@@ -1,3 +1,4 @@
+print ('misc...')
 class Employee: #some bad idea
     """ an example of a class without any methods of variables,
     yet it can be filled later like a structure.
